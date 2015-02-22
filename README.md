@@ -7,3 +7,5 @@ The script run_analysis.R does the following steps
 * loading all data to R
 * tidying up the data
 * export the tidy data set to the file: tidy_data.txt
+
+In Order to run this script, you need the library **plyr** installed
